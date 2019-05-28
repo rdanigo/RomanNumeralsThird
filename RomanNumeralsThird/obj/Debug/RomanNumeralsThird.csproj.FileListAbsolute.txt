@@ -1,0 +1,7 @@
+C:\Users\rdaniellagomez\source\repos\RomanNumeralsThird\RomanNumeralsThird\bin\Debug\RomanNumeralsThird.exe.config
+C:\Users\rdaniellagomez\source\repos\RomanNumeralsThird\RomanNumeralsThird\bin\Debug\RomanNumeralsThird.exe
+C:\Users\rdaniellagomez\source\repos\RomanNumeralsThird\RomanNumeralsThird\bin\Debug\RomanNumeralsThird.pdb
+C:\Users\rdaniellagomez\source\repos\RomanNumeralsThird\RomanNumeralsThird\obj\Debug\RomanNumeralsThird.csprojAssemblyReference.cache
+C:\Users\rdaniellagomez\source\repos\RomanNumeralsThird\RomanNumeralsThird\obj\Debug\RomanNumeralsThird.csproj.CoreCompileInputs.cache
+C:\Users\rdaniellagomez\source\repos\RomanNumeralsThird\RomanNumeralsThird\obj\Debug\RomanNumeralsThird.exe
+C:\Users\rdaniellagomez\source\repos\RomanNumeralsThird\RomanNumeralsThird\obj\Debug\RomanNumeralsThird.pdb
